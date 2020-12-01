@@ -4,6 +4,7 @@ This is a really awesome website
 
 Updated made on master on Github 
 
-## Purpose
+## Repository Purpose
 
-This will be a change that conflics
+
+This file is just a readme file.
