@@ -6,4 +6,4 @@ Updated made on master
 
 ## Purpose
 
-This file is just a readme fil.e
+This file is just a readme file.
